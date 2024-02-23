@@ -6,7 +6,7 @@
 <div align="center">
   
 # 💫About Me :
-Hi there, my name is Daniel. I'm 17 years old and. I'm an advanced programmer with over 3 years of experience. I work well with teams, and I structure my code so it's easy to read. It's well optimised, and I understand practices such as Object-Oriented Programming, using inheritance, metamethods.
+Hi there, my name is Daniel. I'm 17 years old and. I'm a programmer with over 3 years of experience. I work well with teams, and I structure my code so it's easy to read. It's well optimised, and I understand practices such as Object-Oriented Programming, using inheritance, metamethods.
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
